@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Raya 👋
 
-<!--
-**raya-ai25/raya-ai25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m an MSc Artificial Intelligence graduate with hands-on experience in machine learning and computer vision.  
+I enjoy building practical AI projects, learning new technologies, and working on real-world problems.
 
-Here are some ideas to get you started:
+## 🔬 Projects
+- Optic Disc & Cup Segmentation (U-Net, U-Mamba, GAN)
+- Intrusion Detection using MLP (built from scratch)
+- Computer Vision: Image Classification & Visual Search
+- Knife Detection System
+- MSc Dissertation – GLP1R & Mental Health
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+Python • Machine Learning • Deep Learning • Computer Vision • Neural Networks • Git
+
+I’m currently looking for junior / graduate AI or machine learning roles where I can continue growing as an AI engineer.
+
+📫 Contact: rayaalam00000@gmail.com
